@@ -1,0 +1,14 @@
+# Node (json-server vb.)
+node_modules/
+
+# Editörler
+.idea/
+.vscode/
+
+# Günlükler ve ortam değişkenleri
+*.log
+.env
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
